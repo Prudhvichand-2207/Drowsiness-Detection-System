@@ -48,3 +48,31 @@ Clean Modular Code Structure
 - **Hidden Layer: Dense (128 neurons, ReLU)**
 - **Output Layer: Dense (2 neurons, Sigmoid)**
 - **Loss Function: Categorical Crossentropy**
+
+---
+
+## Performance Metrics
+
+- **Accuracy**
+- **Precision**
+- **Recall (Sensitivity)**
+- **Specificity**
+- **F1 Score**
+- **Confusion Matrix**
+- **ROC Curve & AUC Score**
+
+---
+
+## Applications
+
+- **Driver Drowsiness Detection**
+- **Medical Monitoring**
+- **Industrial Safety**
+- **Surveillance & Security Systems**
+
+---
+## Author
+
+- Prudhvichand
+- B.tech-computer Science
+
